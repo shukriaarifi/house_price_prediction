@@ -216,3 +216,8 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+
+#anaconda_stuff
+.virtual_documents/
+anaconda_projects/
